@@ -1,9 +1,5 @@
-Hola señor, soy Ahmed Hmila,
-
-    🌱 I’m currently learning computer science and multimedia at the Higher Institute of Computer Science and Communication Technologies of Hammem Sousse , Tunisia .
- 
-   I’m interested in video games developpment either it's AR/VR , 2D or 3D because since I was at young age video games have played a huge role in my life and ever since I knew
- what I was going to do in the future. That's why I will be pushing here some of my own video games for you to enjoy.
+Hola, soy Ahmed Hmila,
+I am currently pursuing a cybersecurity engineering degree at EPI. Prior to this, I successfully completed my undergraduate studies at the Higher Institute of Computer Science and Communication Technologies (ISITCom) of Hammem Sousse in Tunisia, where I earned a degree in computer science and multimedia.
 
  📫 How to reach me :
  
